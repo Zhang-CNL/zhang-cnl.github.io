@@ -51,8 +51,8 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Dr. Wenhao Zhang
-          subtitle: ""
+          title: The Computational Neuroscience Lab
+          subtitle: "We address how neural circuit dynamics give rise to neural codes to represent and process uncertain information, and how these produce perception, cognition, and behavior. Our research comes from a computational perspective, but with a special care to link it to concrete neurobiology experiments."
           imageUrl: "logo.png"
           imageWidth: 92
           imageHeight: 88
@@ -67,8 +67,6 @@ params:
     socialIcons:
         - name: Email
           url: mailto:wenhao.zhang@utsouthwestern.edu
-        - name: Office Hours
-          url: officehours/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=TqGPd9QAAAAJ
         - name: GitHub
