@@ -50,7 +50,7 @@ params:
     comments: false
     math: true
     profileMode:
-          enabled: false
+          enabled: true
           title: Dr. Wenhao Zhang
           subtitle: ""
           imageUrl: "logo.png"
