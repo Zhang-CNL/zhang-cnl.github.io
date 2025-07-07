@@ -65,6 +65,7 @@ params:
               url: blog/
 
     socialIcons:
+        - name: Email
           url: mailto:wenhao.zhang@utsouthwestern.edu
         - name: Office Hours
           url: officehours/
